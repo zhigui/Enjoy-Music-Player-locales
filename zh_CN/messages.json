@@ -1,0 +1,375 @@
+{
+  "lang":{
+    "message":"ZH_CN"
+  },
+  "application_title": {
+    "message": "享听音乐播放器"
+  },
+  "application_description": {
+    "message": "享听音乐播放器,能让您方便地播放本地和在线音乐"
+  },
+  "app_cmd_prev":{
+    "message":"上一曲"
+  },
+  "app_cmd_next":{
+    "message":"下一曲"
+  },
+  "app_cmd_playpause":{
+    "message":"播放/暂停"
+  },
+  "minimize":{
+    "message":"最小化"
+  },
+  "maximize":{
+    "message":"最大化"
+  },
+  "mini_mode":{
+    "message":"迷你模式"
+  },
+  "close_app":{
+    "message":"关闭应用程序"
+  },
+  "eq":{
+    "message":"EQ音效均衡器"
+  },
+  "enable_eq":{
+    "message":"启用均衡"
+  },
+  "disable_eq":{
+    "message":"禁用均衡"
+  },
+  "setting":{
+    "message":"设置"
+  },
+  "favorite":{
+    "message":"喜欢当前歌曲"
+  },
+  "share":{
+    "message":"分享当前歌曲"
+  },
+  "mode_list": {
+    "message": "列表播放"
+  },
+  "mode_single": {
+    "message": "单曲循环"
+  },
+  "mode_random": {
+    "message": "随机播放"
+  },
+  "local_music": {
+    "message": "本地音乐"
+  },
+  "online_music": {
+    "message": "在线音乐"
+  },
+  "google_driver":{
+    "message": "Google Driver"
+  },
+  "add_track": {
+    "message": "添加音乐"
+  },
+  "music_list": {
+    "message": "歌曲列表"
+  },
+  "artist_list": {
+    "message": "歌手列表"
+  },
+  "album_list": {
+    "message": "专辑列表"
+  },
+  "favorite_list": {
+    "message": "我喜欢的"
+  },
+  "offline_list":{
+    "message":"离线音乐"
+  },
+  "song_title": {
+    "message": "歌名"
+  },
+  "song_artist": {
+    "message": "歌手"
+  },
+  "song_album": {
+    "message": "专辑"
+  },
+  "song_track":{
+    "message": "音轨"
+  },
+  "songs_empty": {
+    "message": "播放列表暂时为空，请点击左边的添加本地音乐按钮选择本地歌曲位置，么么哒！"
+  },
+  "playlist_empty": {
+    "message": "播放列表暂时为空，到歌曲列表挑选一些歌曲添加进来"
+  },
+  "search_local":{
+      "message":"搜索歌曲列表"
+  },
+  "playlist_add_selected":{
+    "message":"首，已选择",
+    "description": "3 songs selected"
+  },
+  "playlist_add_to":{
+    "message":"添加到",
+    "description": "Add to <playlist name>"
+  },
+  "add_playlist":{
+    "message": "新建播放列表",
+    "description": "create playlist"
+  },
+  "playlist_name":{
+    "message": "播放列表名称"
+  },
+  "added_playlist":{
+    "message":"播放列表 $NAME$ 已经添加",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "removed_playlist":{
+    "message":"播放列表 $NAME$ 已经移除",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "add_to_playlist":{
+    "message":" $NUM$ 首歌曲 已添加到 $PLAYLIST$ ",
+    "description": "3 songs added to <playlist name>",
+    "placeholders": {
+      "num": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "remove_from_playlist":{
+    "message":"歌曲 $TITLE$ 已经从 $PLAYLIST$ 中移除",
+    "description": "<song title> removed from <playlist name>",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "music_trend":{
+    "message":"音乐正流行"
+  },
+  "music_select": {
+    "message": "Genres"
+  },
+  "music_radio": {
+    "message": "音乐电台"
+  },
+  "search_track": {
+    "message": "搜索音乐"
+  },
+  "search":{
+    "message":"搜索"
+  },
+  "online_loading": {
+    "message": "加载中……"
+  },
+  "search_result_empty": {
+    "message": "搜索结果为空哦，╭(╯3╰)╮"
+  },
+  "local_adding": {
+    "message": "正在扫描并解析本地音乐信息……"
+  },
+  "cancle_auth":{
+    "message":"取消授权"
+  },
+  "refresh_list":{
+    "message":"刷新列表"
+  },
+  "manage_drive":{
+    "message":"管理文件"
+  },
+  "connect_drive":{
+    "message":"连接您的谷歌云端硬盘"
+  },
+  "file":{
+    "message":"文件"
+  },
+  "size":{
+    "message":"大小"
+  },
+  "date":{
+    "message":"日期"
+  },
+  "nothing_found":{
+    "message":"没有发现任何音乐文件哦"
+  },
+  "addlocalmusic":{
+    "message":"添加本地音乐"
+  },
+  "add_local_title":{
+    "message":"您将允许享听扫描以下位置的音乐："
+  },
+  "add_local_null":{
+    "message":"享听无法访问您的本地文件，请点击左下角的按钮，添加文件位置"
+  },
+  "change_music_location":{
+    "message":"添加/修改扫描位置"
+  },
+  "eq_effect":{
+    "message":"音效均衡"
+  },
+  "cancel":{
+    "message":"取消"
+  },
+  "ok": {
+    "message": "确定"
+  },
+  "apply": {
+    "message": "应用"
+  },
+  "delete":{
+    "message":"删除"
+  },
+  "setting": {
+    "message": "设置"
+  },
+  "hotkey":{
+    "message":"快捷键"
+  },
+  "desktop_notify": {
+    "message": "桌面通知"
+  },
+  "setting_notify": {
+    "message": "最小化窗口播放下一曲的时候开启桌面通知"
+  },
+  "setting_hotkey":{
+    "message":"默认快捷键为媒体键(上一曲、播放暂停、下一曲)。您可以可以手动打开chrome扩展设置页面进行快捷键设置，地址："
+  },
+  "help_improve": {
+    "message": "参与改进"
+  },
+  "setting_analysis": {
+    "message": "对享听的部分模块使用频率进行统计，以便我们有针对性地开发您所喜欢的功能！"
+  },
+  "remote_scan": {
+    "message": "请用手机扫描二维码，在手机浏览器中打开二维码中的链接！"
+  },
+  "remote_control": {
+    "message": "远程控制"
+  },
+  "remote_interface":{
+    "message": "网卡"
+  },
+  "remote_port":{
+    "message": "端口"
+  },
+  "remote_enable": {
+    "message": "开启"
+  },
+  "remote_stop": {
+    "message": "停止"
+  },
+  "remote_success": {
+    "message": "远程遥控配对成功！"
+  },
+  "remote_failure": {
+    "message": "远程遥控配对失败！"
+  },
+  "default_tip": {
+    "message": "享受音乐，享受生活!"
+  },
+  "skip_next":{
+    "message":"播放下一首"
+  },
+  "analysismusic":{
+    "message":"正在解析:"
+  },
+  "scan_complete":{
+    "message":"文件扫描完成"
+  },
+  "media_lib_updated":{
+    "message":"媒体库已更新"
+  },
+  "load_error":{
+    "message":"加载歌曲发生错误"
+  },
+  "file_error":{
+    "message": "无法播放 $TITLE$ 位于: $LOCATION$ ",
+    "description": "Cant't play <song title> form: <song location> ",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "location": {
+        "content":"$2"
+      }
+    }
+  },
+  "load_buffer":{
+    "message":"正在缓冲..."
+  },
+  "load_connect":{
+    "message":"正在连接..."
+  },
+  "custom":{
+    "message":"自定义"
+  },
+  "suggest":{
+    "message":"智能匹配"
+  },
+  "reset":{
+    "message":"重置"
+  },
+  "bruce":{
+    "message":"布鲁斯"
+  },
+  "opera":{
+    "message":"歌剧"
+  },
+  "metal":{
+    "message":"金属乐"
+  },
+  "dance":{
+    "message":"舞曲"
+  },
+  "pop":{
+    "message":"流行"
+  },
+  "rock":{
+    "message":"摇滚"
+  },
+  "voice":{
+    "message":"人声"
+  },
+  "country":{
+    "message":"乡村"
+  },
+  "electronic":{
+    "message":"电子乐"
+  },
+  "jazz":{
+    "message":"爵士"
+  },
+  "classic":{
+    "message":"古典"
+  },
+  "old":{
+    "message":"怀旧"
+  },
+  "search_error":{
+    "message":"搜索发生错误"
+  },
+  "mix_music":{
+    "message":"正在为您调制音乐，请稍后..."
+  },
+  "mix_error":{
+    "message":"混合歌曲过程中发生错误"
+  },
+  "loadlist_error":{
+    "message":"加载列表失败，请稍后再试"
+  }
+}
