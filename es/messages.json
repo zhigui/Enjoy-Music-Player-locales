@@ -6,19 +6,19 @@
     "message": "Enjoy Music Player"
   },
   "application_description": {
-    "message": "Con Enjoy Music Player, puedes reproducir música local y online fácilmente."
+    "message": "Con Enjoy Music Player, puedes reproducir música local y en linea fácilmente."
   },
   "app_cmd_prev":{
-    "message":"pista anterior"
+    "message":"Pista anterior"
   },
   "app_cmd_next":{
-    "message":"siguiente pista"
+    "message":"Pista siguiente"
   },
   "app_cmd_playpause":{
-    "message":"Play/Pause"
+    "message":"Reproducir/Pausar"
   },
   "minimize":{
-    "message":"Minimizar"
+    "message":"minimizar"
   },
   "maximize":{
     "message":"maximizar"
@@ -51,7 +51,7 @@
     "message": "En orden"
   },
   "mode_single": {
-    "message": "Repetir"
+    "message": "Repetir una"
   },
   "mode_random": {
     "message": "Aleatorio"
@@ -60,10 +60,10 @@
     "message": "Local"
   },
   "online_music": {
-    "message": "Online"
+    "message": "En linea"
   },
   "google_driver":{
-    "message": "Google Driver"
+    "message": "Controlador de Google"
   },
   "add_track": {
     "message": "Añadir Música"
@@ -75,13 +75,13 @@
     "message": "Artistas"
   },
   "album_list": {
-    "message": "Albums"
+    "message": "Discos"
   },
   "favorite_list": {
     "message": "Mis Favoritos"
   },
   "offline_list":{
-    "message":"Música Offline"
+    "message":"Música sin conexión"
   },
   "song_title": {
     "message": "Titulo"
@@ -90,37 +90,37 @@
     "message": "Artista"
   },
   "song_album": {
-    "message": "Album"
+    "message": "Disco"
   },
   "song_track":{
-    "message": "aŭtoveturejo"
+    "message": "Canción"
   },
   "songs_empty": {
     "message": "La lista de canciones locales esta vacía, clic en '+Añadir Música' para añadir canciones"
   },
   "playlist_empty": {
-    "message": "Playlist is empty, please pick some music from songs list"
+    "message": "La lista de reproducción está vacía, por favor escoge un poco de música de la lista de canciones"
   },
   "search_local":{
     "message":"Buscar en lista de canciones"
   },
   "playlist_add_selected":{
-    "message":" kantoj selektitaj",
-    "description": "3 songs selected"
+    "message":" canción seleccionada",
+    "description": "3 canciones seleccionadas"
   },
   "playlist_add_to":{
-    "message":"Aldoni al ",
-    "description": "Add to <playlist name>"
+    "message":"añadir a  ",
+    "description": "Añadir a <playlist name>"
   },
   "add_playlist":{
-    "message": "New Playlist",
-    "description": "create playlist"
+    "message": "Nueva lista de reproducción",
+    "description": "crear lista de reproducción"
   },
   "playlist_name":{
-    "message": "Playlist Name"
+    "message": "Nombre de lista de reproducción"
   },
   "added_playlist":{
-    "message":"Playlist $NAME$ added",
+    "message":"Lista de reproducción $NAME$ añadida",
     "placeholders": {
       "name": {
         "content":"$1"
@@ -128,7 +128,7 @@
     }
   },
   "removed_playlist":{
-    "message":"Playlist $NAME$ removed",
+    "message":"Lista de reproducción $NAME$ eliminada",
     "placeholders": {
       "name": {
         "content":"$1"
@@ -136,8 +136,8 @@
     }
   },
   "add_to_playlist":{
-    "message":" $NUM$ songs added to $PLAYLIST$ ",
-    "description": "3 songs added to <playlist name>",
+    "message":" $NUM$ canciones añadidas a $PLAYLIST$ ",
+    "description": "3 canciones añadidas a <playlist name>",
     "placeholders": {
       "num": {
         "content":"$1"
@@ -148,8 +148,8 @@
     }
   },
   "remove_from_playlist":{
-    "message":" $TITLE$ removed from $PLAYLIST$ ",
-    "description": "<song title> removed from <playlist name>",
+    "message":" $TITLE$ eliminada de $PLAYLIST$ ",
+    "description": "<song title> eliminada de <playlist name>",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -169,13 +169,13 @@
     "message": "Radio"
   },
   "search_track": {
-    "message": "Search music"
+    "message": "Buscar música"
   },
   "search":{
     "message":"Buscar"
   },
   "online_loading": {
-    "message": "Cargandomu..."
+    "message": "Cargando..."
   },
   "search_result_empty": {
     "message": "Vaya, no tengo nada aquí ╭(╯3╰)╮."
@@ -232,7 +232,7 @@
     "message": "Guardar"
   },
   "delete":{
-    "message":"Delete"
+    "message":"Borrar"
   },
   "setting": {
     "message": "Configuración"
@@ -247,16 +247,16 @@
     "message": "Cuando el reproductor esta minimizado, mostrar notificaciones cuando se pase a la siguiente canción."
   },
   "setting_hotkey":{
-    "message":"Default using Media Keys (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Manually add  shortcuts by open the URL:"
+    "message":"Utilizando las teclas multimedia por defecto (MediaNextTrack, MediaPlayPause, MediaPrevTrack). Añade accesos directos manualmente abriendo la URL:"
   },
   "help_improve": {
-    "message": "Privacy"
+    "message": "Privacidad"
   },
   "setting_analysis": {
     "message": "Enviar datos de uso anónimos para ayudarnos a mejorar nuestra aplicación!"
   },
   "remote_scan": {
-    "message": "Scan Qr code and open link on mobile browser now."
+    "message": "Escanea el código Qr y abre el vinculo en el navegador móvil ahora."
   },
   "remote_control": {
     "message": "Control Remoto"
@@ -292,14 +292,14 @@
     "message":"Escaneo completado"
   },
   "media_lib_updated":{
-    "message":"Media library has been updated"
+    "message":"La librería ha sido actualizada"
   },
   "load_error":{
     "message":"Error en la carga de la música"
   },
   "file_error":{
-    "message": "Cant't play $TITLE$ form: $LOCATION$ ",
-    "description": "Cant't play <song title> form: <song location> ",
+    "message": "No se puede reproducir $TITLE$ desde: $LOCATION$ ",
+    "description": "No se puede reproducir <song title> desde: <song location> ",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -310,7 +310,7 @@
     }
   },
   "load_buffer":{
-    "message":"buffering..."
+    "message":"almacenando en búfer..."
   },
   "load_connect":{
     "message":"conectando..."
@@ -364,7 +364,7 @@
     "message":"Error en la Búsqueda"
   },
   "mix_music":{
-    "message":"mezclando música..."
+    "message":"mezclando música ahora..."
   },
   "mix_error":{
     "message":"Se ha producido un error al mezclar la música"
