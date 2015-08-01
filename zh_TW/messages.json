@@ -162,8 +162,8 @@
   "music_trend":{
     "message":"音樂正流行"
   },
-  "music_select": {
-    "message": "Genres"
+  "music_genres": {
+    "message": "音樂流派"
   },
   "music_radio": {
     "message": "音樂電台"
@@ -183,7 +183,7 @@
   "local_adding": {
     "message": "正在掃描並解析本地音樂信息……"
   },
-  "cancle_auth":{
+  "revoke_auth":{
     "message":"取消授權"
   },
   "refresh_list":{
@@ -285,8 +285,8 @@
   "skip_next":{
     "message":"播放下一首"
   },
-  "analysismusic":{
-    "message":"正在解析:"
+  "analysis_music":{
+    "message":"正在解析音樂"
   },
   "scan_complete":{
     "message":"文件掃描完成"
