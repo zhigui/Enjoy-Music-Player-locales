@@ -62,8 +62,8 @@
   "online_music": {
     "message": "En linea"
   },
-  "google_driver":{
-    "message": "Controlador de Google"
+  "google_drive":{
+    "message": "Google Drive"
   },
   "add_track": {
     "message": "Añadir Música"

@@ -62,8 +62,8 @@
   "online_music": {
     "message": "在線音樂"
   },
-  "google_driver":{
-    "message": "Google Driver"
+  "google_drive":{
+    "message": "Google Drive"
   },
   "add_track": {
     "message": "添加音樂"
