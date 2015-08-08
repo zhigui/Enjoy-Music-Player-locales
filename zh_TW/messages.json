@@ -27,25 +27,25 @@
     "message":"迷你模式"
   },
   "close_app":{
-    "message":"關閉應用程序"
+    "message":"關閉"
   },
   "eq":{
-    "message":"EQ音效均衡器"
+    "message":"EQ等化器"
   },
   "enable_eq":{
-    "message":"啟用均衡"
+    "message":"啓用等化器"
   },
   "disable_eq":{
-    "message":"禁用均衡"
+    "message":"停用等化器"
   },
   "setting":{
-    "message":"設置"
+    "message":"設定"
   },
   "favorite":{
-    "message":"喜歡當前歌曲"
+    "message":"喜歡目前歌曲"
   },
   "share":{
-    "message":"分享當前歌曲"
+    "message":"分享目前歌曲"
   },
   "mode_list": {
     "message": "列表播放"
@@ -63,7 +63,7 @@
     "message": "在線音樂"
   },
   "google_drive":{
-    "message": "Google Drive"
+    "message": "Google 雲端硬碟"
   },
   "add_track": {
     "message": "添加音樂"
@@ -105,7 +105,7 @@
       "message":"搜索歌曲列表"
   },
   "playlist_add_selected":{
-    "message":"首，已選擇",
+    "message":"首已選擇",
     "description": "3 songs selected"
   },
   "playlist_add_to":{
@@ -169,13 +169,13 @@
     "message": "音樂電台"
   },
   "search_track": {
-    "message": "搜索音樂"
+    "message": "搜尋音樂"
   },
   "search":{
-    "message":"搜索"
+    "message":"搜尋"
   },
   "online_loading": {
-    "message": "加載中……"
+    "message": "載入中……"
   },
   "search_result_empty": {
     "message": "搜索結果為空哦，╭(╯3╰)╮"
@@ -193,7 +193,7 @@
     "message":"管理文件"
   },
   "connect_drive":{
-    "message":"連接您的谷歌云端硬盤"
+    "message":"連接您的Google雲端硬碟"
   },
   "file":{
     "message":"文件"
@@ -211,7 +211,7 @@
     "message":"添加本地音樂"
   },
   "add_local_title":{
-    "message":"您將允許享聽掃描以下位置的音樂："
+    "message":"將掃描下列位置的音樂："
   },
   "add_local_null":{
     "message":"享聽無法訪問您的本地文件，請點擊左下角的按鈕，添加文件位置"
@@ -244,10 +244,10 @@
     "message": "桌面通知"
   },
   "setting_notify": {
-    "message": "最小化窗口播放下一曲的時候開啟桌面通知"
+    "message": "最小化後，換歌時顯示桌面通知"
   },
   "setting_hotkey":{
-    "message":"默認快捷鍵為媒體鍵(上一曲、播放暫停、下一曲)。您可以可以手動打開chrome擴展設置頁面進行快捷鍵設置，地址："
+    "message":"預設快捷鍵為媒體鍵(上一曲、播放暫停、下一曲)，您可以手動打開chrome擴充功能設定進行調整，地址："
   },
   "help_improve": {
     "message": "參與改進"
@@ -295,11 +295,11 @@
     "message":"媒體庫已更新"
   },
   "load_error":{
-    "message":"加載歌曲發生錯誤"
+    "message":"載入歌曲時發生錯誤"
   },
   "file_error":{
-    "message": "無法播放$TITLE$ 位於: $LOCATION$ ",
-    "description": "Cant't play <song title> form: <song location> ",
+    "message": "無法播放位於 $LOCATION$的$TITLE$  ",
+    "description": "Can't play <song title> from: <song location> ",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -322,7 +322,7 @@
     "message":"智能匹配"
   },
   "reset":{
-    "message":"重置"
+    "message":"重設"
   },
   "bruce":{
     "message":"布魯斯"
@@ -361,7 +361,7 @@
     "message":"懷舊"
   },
   "search_error":{
-    "message":"搜索發生錯誤"
+    "message":"搜尋時發生錯誤"
   },
   "mix_music":{
     "message":"正在為您調製音樂，請稍後..."
@@ -370,6 +370,6 @@
     "message":"混合歌曲過程中發生錯誤"
   },
   "loadlist_error":{
-    "message":"加載列表失敗，請稍後再試"
+    "message":"載入列表失敗，請重試"
   }
 }
