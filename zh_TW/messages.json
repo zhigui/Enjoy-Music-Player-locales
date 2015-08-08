@@ -96,16 +96,16 @@
     "message": "音軌"
   },
   "songs_empty": {
-    "message": "播放列表暫時為空，請點擊左邊的添加本地音樂按鈕選擇本地歌曲位置，麼麼噠！"
+    "message": "本地音樂列表目前空白，請點選左側「添加音樂」"
   },
   "playlist_empty": {
-    "message": "播放列表暫時為空，到歌曲列表挑選一些歌曲添加進來"
+    "message": "播放清單空白"
   },
   "search_local":{
-      "message":"搜索歌曲列表"
+      "message":"搜尋音樂"
   },
   "playlist_add_selected":{
-    "message":"首已選擇",
+    "message":"首選擇中",
     "description": "3 songs selected"
   },
   "playlist_add_to":{
@@ -113,14 +113,14 @@
     "description": "Add to <playlist name>"
   },
   "add_playlist":{
-    "message": "新建播放列表",
+    "message": "新增播放清單",
     "description": "create playlist"
   },
   "playlist_name":{
-    "message": "播放列表名稱"
+    "message": "播放清單名稱"
   },
   "added_playlist":{
-    "message":"播放列表 $NAME$ 已經添加",
+    "message":"播放清單 $NAME$ 已新增",
     "placeholders": {
       "name": {
         "content":"$1"
@@ -128,7 +128,7 @@
     }
   },
   "removed_playlist":{
-    "message":"播放列表 $NAME$ 已經移除",
+    "message":"播放清單 $NAME$ 已移除",
     "placeholders": {
       "name": {
         "content":"$1"
@@ -160,7 +160,7 @@
     }
   },
   "music_trend":{
-    "message":"音樂正流行"
+    "message":"音樂趨勢"
   },
   "music_genres": {
     "message": "音樂流派"
@@ -178,16 +178,16 @@
     "message": "載入中……"
   },
   "search_result_empty": {
-    "message": "搜索結果為空哦，╭(╯3╰)╮"
+    "message": "無搜尋結果"
   },
   "local_adding": {
-    "message": "正在掃描並解析本地音樂信息……"
+    "message": "正在掃描本地音樂……"
   },
   "revoke_auth":{
     "message":"取消授權"
   },
   "refresh_list":{
-    "message":"刷新列表"
+    "message":"更新列表"
   },
   "manage_drive":{
     "message":"管理文件"
@@ -205,22 +205,22 @@
     "message":"日期"
   },
   "nothing_found":{
-    "message":"沒有發現任何音樂文件哦"
+    "message":"沒有找到音樂"
   },
   "addlocalmusic":{
     "message":"添加本地音樂"
   },
   "add_local_title":{
-    "message":"將掃描下列位置的音樂："
+    "message":"將掃描以下位置的音樂："
   },
   "add_local_null":{
-    "message":"享聽無法訪問您的本地文件，請點擊左下角的按鈕，添加文件位置"
+    "message":"享聽無法存取您的本地文件，請點選左下角按鈕，添加文件位置"
   },
   "change_music_location":{
-    "message":"添加/修改掃描位置"
+    "message":"新增/修改掃描位置"
   },
   "eq_effect":{
-    "message":"音效均衡"
+    "message":"等化器"
   },
   "cancel":{
     "message":"取消"
@@ -229,13 +229,13 @@
     "message": "確定"
   },
   "apply": {
-    "message": "應用"
+    "message": "套用"
   },
   "delete":{
     "message":"刪除"
   },
   "setting": {
-    "message": "設置"
+    "message": "設定"
   },
   "hotkey":{
     "message":"快捷鍵"
@@ -244,10 +244,10 @@
     "message": "桌面通知"
   },
   "setting_notify": {
-    "message": "最小化後，換歌時顯示桌面通知"
+    "message": "最小化後，切換歌曲時顯示通知"
   },
   "setting_hotkey":{
-    "message":"預設快捷鍵為媒體鍵(上一曲、播放暫停、下一曲)，您可以手動打開chrome擴充功能設定進行調整，地址："
+    "message":"預設快捷鍵為媒體鍵(上一曲、播放暫停、下一曲)，您可以手動打開Chrome擴充功能頁面修改，位址："
   },
   "help_improve": {
     "message": "參與改進"
@@ -268,7 +268,7 @@
     "message": "端口"
   },
   "remote_enable": {
-    "message": "開啟"
+    "message": "開啓"
   },
   "remote_stop": {
     "message": "停止"
@@ -295,11 +295,11 @@
     "message":"媒體庫已更新"
   },
   "load_error":{
-    "message":"載入歌曲時發生錯誤"
+    "message":"載入歌曲發生錯誤"
   },
   "file_error":{
-    "message": "無法播放位於 $LOCATION$的$TITLE$  ",
-    "description": "Can't play <song title> from: <song location> ",
+    "message": "無法播放$TITLE$ 位於: $LOCATION$ ",
+    "description": "Cant't play <song title> form: <song location> ",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -322,7 +322,7 @@
     "message":"智能匹配"
   },
   "reset":{
-    "message":"重設"
+    "message":"重置"
   },
   "bruce":{
     "message":"布魯斯"
@@ -364,12 +364,12 @@
     "message":"搜尋時發生錯誤"
   },
   "mix_music":{
-    "message":"正在為您調製音樂，請稍後..."
+    "message":"正在為您混合音樂，請稍後..."
   },
   "mix_error":{
     "message":"混合歌曲過程中發生錯誤"
   },
   "loadlist_error":{
-    "message":"載入列表失敗，請重試"
+    "message":"載入列表失敗，請稍後再試"
   }
 }
