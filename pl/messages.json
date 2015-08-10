@@ -1,0 +1,375 @@
+{
+  "lang":{
+    "message":"PL"
+  },
+  "application_title": {
+    "message": "Enjoy Music Player"
+  },
+  "application_description": {
+    "message": "Za pomocą Enjoy Music Player możesz z łatwością odtwarzać muzykę lokalnie i online."
+  },
+  "app_cmd_prev":{
+    "message":"Poprzedni utwór"
+  },
+  "app_cmd_next":{
+    "message":"Następny utwór"
+  },
+  "app_cmd_playpause":{
+    "message":"Odtwarzaj/Pauza"
+  },
+  "minimize":{
+    "message":"minimalizuj"
+  },
+  "maximize":{
+    "message":"maksymalizuj"
+  },
+  "mini_mode":{
+    "message":"Tryb mini"
+  },
+  "close_app":{
+    "message":"Zamknij aplikację"
+  },
+  "eq":{
+    "message":"Equalizer"
+  },
+  "enable_eq":{
+    "message":"Włącz"
+  },
+  "disable_eq":{
+    "message":"Wyłącz"
+  },
+  "setting":{
+    "message":"Ustawienia"
+  },
+  "favorite":{
+    "message":"Polub ten utwór"
+  },
+  "share":{
+    "message":"Podziel się tym na Twitterze"
+  },
+  "mode_list": {
+    "message": "Po kolei"
+  },
+  "mode_single": {
+    "message": "Powtarzaj jedną"
+  },
+  "mode_random": {
+    "message": "Losowo"
+  },
+  "local_music": {
+    "message": "Lokalnie"
+  },
+  "online_music": {
+    "message": "Online"
+  },
+  "google_drive":{
+    "message": "Google Drive"
+  },
+  "add_track": {
+    "message": "Dodaj muzykę"
+  },
+  "music_list": {
+    "message": "Utwory"
+  },
+  "artist_list": {
+    "message": "Wykonawcy"
+  },
+  "album_list": {
+    "message": "Albumy"
+  },
+  "favorite_list": {
+    "message": "Moje ulubione"
+  },
+  "offline_list":{
+    "message":"Muzyka offline"
+  },
+  "song_title": {
+    "message": "Tytuł"
+  },
+  "song_artist": {
+    "message": "Wykonawca"
+  },
+  "song_album": {
+    "message": "Album"
+  },
+  "song_track":{
+    "message": "Ścieżka"
+  },
+  "songs_empty": {
+    "message": "Lokalna biblioteka utworów jest pusta. Kliknij '+Dodaj muzykę', aby dodać utwory."
+  },
+  "playlist_empty": {
+    "message": "Lista odtwarzania jest pusta, dodaj do niej muzykę z biblioteki"
+  },
+  "search_local":{
+    "message":"Przeszukaj bibliotekę"
+  },
+  "playlist_add_selected":{
+    "message":"utwory wybrane",
+    "description": "3 utwory wybrane"
+  },
+  "playlist_add_to":{
+    "message":"Dodaj do",
+    "description": "Dodaj do <nazwa listy odtwarzania>"
+  },
+  "add_playlist":{
+    "message": "Nowa lista odtwarzania",
+    "description": "stwórz nową listę odtwarzania"
+  },
+  "playlist_name":{
+    "message": "Nazwa listy odtwarzania"
+  },
+  "added_playlist":{
+    "message":"Lista odtwarzania $NAME$ została utworzona",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "removed_playlist":{
+    "message":"Lista odtwarzania $NAME$ została usunięta",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "add_to_playlist":{
+    "message":" Dodano $NUM$ utworów do $PLAYLIST$ ",
+    "description": "Dodano 3 utwory do <nazwa listy odtwarzania>",
+    "placeholders": {
+      "num": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "remove_from_playlist":{
+    "message":" Usunięto $TITLE$ z $PLAYLIST$ ",
+    "description": "Usunięto <tytuł utworu> z <nazwa listy odtwarzania>",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "music_trend":{
+    "message":"Trendująca muzyka"
+  },
+  "music_genres": {
+    "message": "Gatunka"
+  },
+  "music_radio": {
+    "message": "Radio"
+  },
+  "search_track": {
+    "message": "Szukaj muzyki"
+  },
+  "search":{
+    "message":"Szukaj"
+  },
+  "online_loading": {
+    "message": "Ładowanie..."
+  },
+  "search_result_empty": {
+    "message": "Ups, nic nie znalazłem ╭(╯3╰)╮."
+  },
+  "local_adding": {
+    "message": "Rozpocznij skanowanie w poszukiwaniu lokalnej muzyki. "
+  },
+  "revoke_auth":{
+    "message":"Odwołaj autoryzację"
+  },
+  "refresh_list":{
+    "message":"Odśwież listę"
+  },
+  "manage_drive":{
+    "message":" Modyfikuj dokumenty"
+  },
+  "connect_drive":{
+    "message":"Uzyskaj dostęp do Google Drive"
+  },
+  "file":{
+    "message":"Plik"
+  },
+  "size":{
+    "message":"Rozmiar"
+  },
+  "date":{
+    "message":"Data"
+  },
+  "nothing_found":{
+    "message":" Nie odnaleziono pliku muzycznego"
+  },
+  "add_music_location":{
+    "message":"Dodaj muzykę lokalną"
+  },
+  "add_local_title":{
+    "message":"Pozwól Enjoy Music Player na dostęp do następujących lokalizacji:"
+  },
+  "add_local_null":{
+    "message":"Brak dostępnych lokalizacji. Kliknij na przycisk w lewyn dolnym rogu, aby dodać."
+  },
+  "change_music_location":{
+    "message":"Dodaj/usuń lokalizację"
+  },
+  "eq_effect":{
+    "message":"Equalizer"
+  },
+  "cancel":{
+    "message":"Anuluj"
+  },
+  "ok": {
+    "message": "Ok"
+  },
+  "apply": {
+    "message": "Zastosuj"
+  },
+  "delete":{
+    "message":"Usuń"
+  },
+  "setting": {
+    "message": "Ustawienia"
+  },
+  "hotkey":{
+    "message":"Skróty"
+  },
+  "desktop_notify": {
+    "message": "Powiadomienia"
+  },
+  "setting_notify": {
+    "message": "Pokazuj powiadomienia o zmianie utworu kiedy odtwarzacz jest zminimalizowany."
+  },
+  "setting_hotkey":{
+    "message":"Domyślnie używane są klawisze multimedialne (MediaNextTrack, MediaPlayPause, MediaPrevTrack). Dodaj skróty ręcznie klikając na link:"
+  },
+  "help_improve": {
+    "message": "Prywatność"
+  },
+  "setting_analysis": {
+    "message": "Wysyłaj anonimowe informacje o użytkowaniu, aby pomóc nam ulepszyć tę aplikację!"
+  },
+  "remote_scan": {
+    "message": "Zeskanuj kod QR i otwórz łącze w przeglądarce mobilnej."
+  },
+  "remote_control": {
+    "message": "Zdalne sterowanie"
+  },
+  "remote_interface":{
+    "message": "Interfejs"
+  },
+  "remote_port":{
+    "message": "Port"
+  },
+  "remote_enable": {
+    "message": "Włącz"
+  },
+  "remote_stop": {
+    "message": "Zatrzymaj"
+  },
+  "remote_success": {
+    "message": "Zdalne sterowanie połączone pomyślnie."
+  },
+  "remote_failure": {
+    "message": "Błąd zdalnego sterowania."
+  },
+  "default_tip": {
+    "message": "Ciesz się muzyką. Ciesz się życiem."
+  },
+  "skip_next":{
+    "message":"Odtwórz następną"
+  },
+  "analysis_music":{
+    "message":"Analizowanie muzyki"
+  },
+  "scan_complete":{
+    "message":"Skanowanie zakończone"
+  },
+  "media_lib_updated":{
+    "message":"Biblioteka muzyki została zaktualizowana"
+  },
+  "load_error":{
+    "message":"Błąd wczytywania muzyki"
+  },
+  "file_error":{
+    "message": "Nie można odtworzyć $TITLE$ z: $LOCATION$ ",
+    "description": "Nie można odtworzyć <tytuł utworu> z: <lokalizacja utworu> ",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "location": {
+        "content":"$2"
+      }
+    }
+  },
+  "load_buffer":{
+    "message":"buforowanie..."
+  },
+  "load_connect":{
+    "message":"łączenie..."
+  },
+  "custom":{
+    "message":"Własne"
+  },
+  "suggest":{
+    "message":"Zasugeruj"
+  },
+  "reset":{
+    "message":"Reset"
+  },
+  "bruce":{
+    "message":"Bruce"
+  },
+  "opera":{
+    "message":"Opera"
+  },
+  "metal":{
+    "message":"Metal"
+  },
+  "dance":{
+    "message":"Dance"
+  },
+  "pop":{
+    "message":"Pop"
+  },
+  "rock":{
+    "message":"Rock"
+  },
+  "voice":{
+    "message":"Voice"
+  },
+  "country":{
+    "message":"Country"
+  },
+  "electronic":{
+    "message":"Elektroniczna"
+  },
+  "jazz":{
+    "message":"Jazz"
+  },
+  "classic":{
+    "message":"Klasyczna"
+  },
+  "old":{
+    "message":"Stara"
+  },
+  "search_error":{
+    "message":"Błąd wyszukiwania"
+  },
+  "mix_music":{
+    "message":"miksowanie muzyki..."
+  },
+  "mix_error":{
+    "message":"Wystąpił błąd w trakcie miksowania muzyki"
+  },
+  "loadlist_error":{
+    "message":"Błąd wczytywania listy"
+  }
+}
