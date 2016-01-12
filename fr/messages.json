@@ -193,73 +193,73 @@
     "message":" Gérer les documents"
   },
   "connect_drive":{
-    "message":"Access your Google Drive"
+    "message":"Accéder à votre Google Drive"
   },
   "file":{
-    "message":"File"
+    "message":"Fichier"
   },
   "size":{
-    "message":"Size"
+    "message":"Taille"
   },
   "date":{
     "message":"Date"
   },
   "nothing_found":{
-    "message":" Music file not found"
+    "message":" Fichier musical introuvable"
   },
   "add_music_location":{
-    "message":"Add Music Local"
+    "message":"Ajouter un emplacement"
   },
   "add_local_title":{
-    "message":"Allow Enjoy Music Player to access following location:"
+    "message":"Autoriser le lecteur multimédia Enjoy à accéder à ce répertoire :"
   },
   "add_local_null":{
-    "message":"No location available, please click button on the  bottom left corner to add."
+    "message":"Pas d'emplacement disponible, veuillez cliquer sur le bouton en bas à gauche pour en ajouter."
   },
   "change_music_location":{
-    "message":"Add/Edit Location"
+    "message":"Ajouter/modifier emplacement"
   },
   "eq_effect":{
-    "message":"Equalizer"
+    "message":"Egaliseur"
   },
   "cancel":{
-    "message":"Cancel"
+    "message":"Annuler"
   },
   "ok": {
-    "message": "Ok"
+    "message": "OK"
   },
   "apply": {
-    "message": "Apply"
+    "message": "Appliquer"
   },
   "delete":{
-    "message":"Delete"
+    "message":"Supprimer"
   },
   "setting": {
-    "message": "Setting"
+    "message": "Paramètres"
   },
   "hotkey":{
-    "message":"Shortcuts"
+    "message":"Raccourcis"
   },
   "desktop_notify": {
     "message": "Notifications"
   },
   "setting_notify": {
-    "message": "When the player is minimized, show notifications when changing to next song."
+    "message": "Lorsque le lecteur est réduit, me notifier d'un changement de piste."
   },
   "setting_hotkey":{
-    "message":"Default using Media Keys (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Manually add  shortcuts by open the URL:"
+    "message":"Utilisation des touches (MediaNextTrack, MediaPlayPause, MediaPrevTrack) par défaut. Ajoutez des raccourcis via l'URL:"
   },
   "help_improve": {
-    "message": "Privacy"
+    "message": "Confidentialité"
   },
   "setting_analysis": {
-    "message": "Send anonymous usage data to help us to improve our app!"
+    "message": "Envoyez des données d'utilisation anonymes pour nous aider à améliorer l'app !"
   },
   "remote_scan": {
-    "message": "Scan Qr code and open link on mobile browser now."
+    "message": "Scannez le code QR et ouvrez le lien sur votre mobile maintenant."
   },
   "remote_control": {
-    "message": "Remote Control"
+    "message": "Télécommande"
   },
   "remote_interface":{
     "message": "Interface"
@@ -268,38 +268,38 @@
     "message": "Port"
   },
   "remote_enable": {
-    "message": "Enable"
+    "message": "Activer"
   },
   "remote_stop": {
-    "message": "Stop"
+    "message": "Arrêter"
   },
   "remote_success": {
-    "message": "Remote control connected successfully."
+    "message": "Télécommande connectée avec succès."
   },
   "remote_failure": {
-    "message": "Remote control error."
+    "message": "Erreur de la télécommande."
   },
   "default_tip": {
-    "message": "Enjoy music. Enjoy life."
+    "message": "Appréciez la musique. Appréciez la vie."
   },
   "skip_next":{
-    "message":"Play Next One"
+    "message":"Lire le suivant"
   },
   "analysis_music":{
-    "message":"Analysing music"
+    "message":"Analyse de la musique"
   },
   "scan_complete":{
-    "message":"Scanning complete"
+    "message":"Scan terminé"
   },
   "media_lib_updated":{
-    "message":"Media library has been updated"
+    "message":"Bibliothèque mise à jour"
   },
   "load_error":{
-    "message":"Loading music error"
+    "message":"Erreur de chargement de la musique"
   },
   "file_error":{
-    "message": "Cant't play $TITLE$ form: $LOCATION$ ",
-    "description": "Cant't play <song title> form: <song location> ",
+    "message": "Lecture de $TITLE$ depuis $LOCATION$ impossible ",
+    "description": "Lecture de <song title> depuis <song location> impossible ",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -310,19 +310,19 @@
     }
   },
   "load_buffer":{
-    "message":"buffering..."
+    "message":"mise en cache..."
   },
   "load_connect":{
-    "message":"connecting..."
+    "message":"connexion..."
   },
   "custom":{
-    "message":"Custom"
+    "message":"Personnalisé"
   },
   "suggest":{
-    "message":"Suggest"
+    "message":"Suggérer"
   },
   "reset":{
-    "message":"Rest"
+    "message":"Réinitialiser"
   },
   "bruce":{
     "message":"Bruce"
@@ -343,33 +343,33 @@
     "message":"Rock"
   },
   "voice":{
-    "message":"Voice"
+    "message":"Voix"
   },
   "country":{
     "message":"Country"
   },
   "electronic":{
-    "message":"Electronic"
+    "message":"Electronique"
   },
   "jazz":{
     "message":"Jazz"
   },
   "classic":{
-    "message":"Classic"
+    "message":"Classique"
   },
   "old":{
-    "message":"Old"
+    "message":"Ancien"
   },
   "search_error":{
-    "message":"Search Error"
+    "message":"Erreur de recherche"
   },
   "mix_music":{
-    "message":"mixing music now..."
+    "message":"mixage de la musique..."
   },
   "mix_error":{
-    "message":"Error occurred while mixing music"
+    "message":"Erreur lors du mixage de musique"
   },
   "loadlist_error":{
-    "message":"Load list error"
+    "message":"Erreur de chargement de la liste"
   }
 }
