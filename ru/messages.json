@@ -1,0 +1,375 @@
+{
+  "lang":{
+    "message":"RU"
+  },
+  "application_title": {
+    "message": "Enjoy Music Player"
+  },
+  "application_description": {
+    "message": "С Enjoy Music Player вы можете спокойно слушать музыку как локально, так и в Интернете."
+  },
+  "app_cmd_prev":{
+    "message":"Предыдущий трек"
+  },
+  "app_cmd_next":{
+    "message":"Следующий трек"
+  },
+  "app_cmd_playpause":{
+    "message":"Воспроизвести/Приостановить"
+  },
+  "minimize":{
+    "message":"Свернуть"
+  },
+  "maximize":{
+    "message":"Развернуть"
+  },
+  "mini_mode":{
+    "message":"Мини-плеер"
+  },
+  "close_app":{
+    "message":"Закрыть"
+  },
+  "eq":{
+    "message":"Эквалайзер"
+  },
+  "enable_eq":{
+    "message":"Включить"
+  },
+  "disable_eq":{
+    "message":"Выключить"
+  },
+  "setting":{
+    "message":"Настройки"
+  },
+  "favorite":{
+    "message":"Мне нравится"
+  },
+  "share":{
+    "message":"Поделиться треком в Twitter"
+  },
+  "mode_list": {
+    "message": "Последовательное воспроизведение"
+  },
+  "mode_single": {
+    "message": "Включить повтор"
+  },
+  "mode_random": {
+    "message": "Перемешать"
+  },
+  "local_music": {
+    "message": "На компьютере"
+  },
+  "online_music": {
+    "message": "Онлайн"
+  },
+  "google_drive":{
+    "message": "Google Drive"
+  },
+  "add_track": {
+    "message": "Добавить музыку"
+  },
+  "music_list": {
+    "message": "Треки"
+  },
+  "artist_list": {
+    "message": "Исполнители"
+  },
+  "album_list": {
+    "message": "Альбомы"
+  },
+  "favorite_list": {
+    "message": "Избранное"
+  },
+  "offline_list":{
+    "message":"Офлайн-музыка"
+  },
+  "song_title": {
+    "message": "Название"
+  },
+  "song_artist": {
+    "message": "Исполнитель"
+  },
+  "song_album": {
+    "message": "Альбом"
+  },
+  "song_track":{
+    "message": "Трек"
+  },
+  "songs_empty": {
+    "message": "Список локальных треков пуст, нажмите '+Добавить музыку' для добавления песен."
+  },
+  "playlist_empty": {
+    "message": "Плейлист пуст, пожалуйста, выберите несколько треков из списка песен"
+  },
+  "search_local":{
+    "message":"Найти трек"
+  },
+  "playlist_add_selected":{
+    "message":"треков выбрано",
+    "description": "3 трека добавлено"
+  },
+  "playlist_add_to":{
+    "message":"Добавить в",
+    "description": "Добавить в <playlist name>"
+  },
+  "add_playlist":{
+    "message": "Новый плейлист",
+    "description": "создать плейлист"
+  },
+  "playlist_name":{
+    "message": "Название плейлиста"
+  },
+  "added_playlist":{
+    "message":"Плейлист $NAME$ добавлен",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "removed_playlist":{
+    "message":"Плейлист $NAME$ удалён",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "add_to_playlist":{
+    "message":" $NUM$ треков добавлено в $PLAYLIST$ ",
+    "description": "3 трека добавлено в <playlist name>",
+    "placeholders": {
+      "num": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "remove_from_playlist":{
+    "message":" $TITLE$ удалена из $PLAYLIST$ ",
+    "description": "<song title> удалена из <playlist name>",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "music_trend":{
+    "message":"Популярное"
+  },
+  "music_genres": {
+    "message": "Жанры"
+  },
+  "music_radio": {
+    "message": "Радио"
+  },
+  "search_track": {
+    "message": "Поиск треков"
+  },
+  "search":{
+    "message":"Поиск"
+  },
+  "online_loading": {
+    "message": "Загрузка..."
+  },
+  "search_result_empty": {
+    "message": "Упс, ничего не найдено ╭(╯3╰)╮."
+  },
+  "local_adding": {
+    "message": "Начать поиск музыки на компьютере. "
+  },
+  "revoke_auth":{
+    "message":"Закрыть доступ"
+  },
+  "refresh_list":{
+    "message":"Обновить список"
+  },
+  "manage_drive":{
+    "message":" Управление файлами"
+  },
+  "connect_drive":{
+    "message":"Войти в Google Drive"
+  },
+  "file":{
+    "message":"Файл"
+  },
+  "size":{
+    "message":"Размер"
+  },
+  "date":{
+    "message":"Дата"
+  },
+  "nothing_found":{
+    "message":" Музыкальные файлы не найдены"
+  },
+  "add_music_location":{
+    "message":"Добавить музыку с компьютера"
+  },
+  "add_local_title":{
+    "message":"Дать Enjoy Music Player доступ к следующим папкам:"
+  },
+  "add_local_null":{
+    "message":"Нет доступных папок, пожалуйста, нажмите на кнопку внизу слева для добавления."
+  },
+  "change_music_location":{
+    "message":"Добавить/редактировать папки"
+  },
+  "eq_effect":{
+    "message":"Эквалайзер"
+  },
+  "cancel":{
+    "message":"Отмена"
+  },
+  "ok": {
+    "message": "ОК"
+  },
+  "apply": {
+    "message": "Принять"
+  },
+  "delete":{
+    "message":"Удалить"
+  },
+  "setting": {
+    "message": "Настройки"
+  },
+  "hotkey":{
+    "message":"Сокращения"
+  },
+  "desktop_notify": {
+    "message": "Уведомления"
+  },
+  "setting_notify": {
+    "message": "Когда плеер свёрнут, показывать оповещения о смене трека."
+  },
+  "setting_hotkey":{
+    "message":"По умолчанию используются мультимедийные клавиши (MediaNextTrack, MediaPlayPause, MediaPrevTrack). Вы можете добавить собственные сокращения перейдя по адресу:"
+  },
+  "help_improve": {
+    "message": "Приватность"
+  },
+  "setting_analysis": {
+    "message": "Отправлять анонимные данные об использовании приложения чтобы помочь нам улучшать работу приложения!"
+  },
+  "remote_scan": {
+    "message": "Отсканируйте QR-код и откройте ссылку в мобильном браузере."
+  },
+  "remote_control": {
+    "message": "Удалённый контроль"
+  },
+  "remote_interface":{
+    "message": "Интерфейс"
+  },
+  "remote_port":{
+    "message": "Порт"
+  },
+  "remote_enable": {
+    "message": "Включить"
+  },
+  "remote_stop": {
+    "message": "Остановить"
+  },
+  "remote_success": {
+    "message": "Удалённый контроль успешно установлен."
+  },
+  "remote_failure": {
+    "message": "Ошибка удалённого контроля."
+  },
+  "default_tip": {
+    "message": "Наслаждайся музыкой. Наслаждайся жизнью."
+  },
+  "skip_next":{
+    "message":"Играть следующий трек"
+  },
+  "analysis_music":{
+    "message":"Анализ музыки"
+  },
+  "scan_complete":{
+    "message":"Сканирование завершено"
+  },
+  "media_lib_updated":{
+    "message":"Библиотека обновлена"
+  },
+  "load_error":{
+    "message":"Ошибка загрузки музыки"
+  },
+  "file_error":{
+    "message": "Ошибка воспроизведения $TITLE$ из: $LOCATION$ ",
+    "description": "Ошибка воспроизведения <song title> из: <song location> ",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "location": {
+        "content":"$2"
+      }
+    }
+  },
+  "load_buffer":{
+    "message":"буферизация..."
+  },
+  "load_connect":{
+    "message":"соединение..."
+  },
+  "custom":{
+    "message":"Пользователь"
+  },
+  "suggest":{
+    "message":"Автонастройка"
+  },
+  "reset":{
+    "message":"Отдых"
+  },
+  "bruce":{
+    "message":"Брюс"
+  },
+  "opera":{
+    "message":"Опера"
+  },
+  "metal":{
+    "message":"Метал"
+  },
+  "dance":{
+    "message":"Танцевальная"
+  },
+  "pop":{
+    "message":"Поп"
+  },
+  "rock":{
+    "message":"Рок"
+  },
+  "voice":{
+    "message":"Голос"
+  },
+  "country":{
+    "message":"Кантри"
+  },
+  "electronic":{
+    "message":"Электронная"
+  },
+  "jazz":{
+    "message":"Джаз"
+  },
+  "classic":{
+    "message":"Классика"
+  },
+  "old":{
+    "message":"Старая"
+  },
+  "search_error":{
+    "message":"Ошибка поиска"
+  },
+  "mix_music":{
+    "message":"перемешивание музыки..."
+  },
+  "mix_error":{
+    "message":"Ошибка при перемешивании музыки"
+  },
+  "loadlist_error":{
+    "message":"Ошибка загрузки списка"
+  }
+}
