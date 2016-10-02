@@ -6,13 +6,13 @@
     "message": "享聽音樂播放器"
   },
   "application_description": {
-    "message": "享聽音樂播放器,能讓您方便地播放本地和在線音樂"
+    "message": "享聽音樂播放器,能讓您方便地播放本機和線上音樂"
   },
   "app_cmd_prev":{
-    "message":"上一曲"
+    "message":"上一首"
   },
   "app_cmd_next":{
-    "message":"下一曲"
+    "message":"下一首"
   },
   "app_cmd_playpause":{
     "message":"播放/暫停"
@@ -57,10 +57,10 @@
     "message": "隨機播放"
   },
   "local_music": {
-    "message": "本地音樂"
+    "message": "本機音樂"
   },
   "online_music": {
-    "message": "在線音樂"
+    "message": "線上音樂"
   },
   "google_drive":{
     "message": "Google 雲端硬碟"
@@ -96,7 +96,7 @@
     "message": "音軌"
   },
   "songs_empty": {
-    "message": "本地音樂列表目前空白，請點選左側「添加音樂」"
+    "message": "本機音樂列表目前空白，請點選左側「添加音樂」"
   },
   "playlist_empty": {
     "message": "播放清單空白"
@@ -181,7 +181,7 @@
     "message": "無搜尋結果"
   },
   "local_adding": {
-    "message": "正在掃描本地音樂……"
+    "message": "正在掃描本機音樂……"
   },
   "revoke_auth":{
     "message":"取消授權"
@@ -208,13 +208,13 @@
     "message":"沒有找到音樂"
   },
   "addlocalmusic":{
-    "message":"添加本地音樂"
+    "message":"添加本機音樂"
   },
   "add_local_title":{
     "message":"將掃描以下位置的音樂："
   },
   "add_local_null":{
-    "message":"享聽無法存取您的本地文件，請點選左下角按鈕，添加文件位置"
+    "message":"享聽無法存取您的本機文件，請點選左下角按鈕，添加文件位置"
   },
   "change_music_location":{
     "message":"新增/修改掃描位置"
@@ -259,13 +259,13 @@
     "message": "請用手機掃描二維碼，在手機瀏覽器中打開二維碼中的鏈接！"
   },
   "remote_control": {
-    "message": "遠程控制"
+    "message": "遠端控制"
   },
   "remote_interface":{
     "message": "網卡"
   },
   "remote_port":{
-    "message": "端口"
+    "message": "埠號"
   },
   "remote_enable": {
     "message": "開啓"
@@ -274,10 +274,10 @@
     "message": "停止"
   },
   "remote_success": {
-    "message": "遠程遙控配對成功！"
+    "message": "遠端遙控配對成功！"
   },
   "remote_failure": {
-    "message": "遠程遙控配對失敗！"
+    "message": "遠端遙控配對失敗！"
   },
   "default_tip": {
     "message": "享受音樂，享受生活!"
@@ -316,7 +316,7 @@
     "message":"正在連接..."
   },
   "custom":{
-    "message":"自定義"
+    "message":"自訂"
   },
   "suggest":{
     "message":"智能匹配"
