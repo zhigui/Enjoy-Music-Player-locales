@@ -6,7 +6,7 @@
     "message": "享聽音樂播放器"
   },
   "application_description": {
-    "message": "享聽音樂播放器,能讓您方便地播放本機和線上音樂"
+    "message": "享聽音樂播放器，能讓您方便地播放本機和線上音樂。"
   },
   "app_cmd_prev":{
     "message":"上一首"
@@ -207,7 +207,7 @@
   "nothing_found":{
     "message":"沒有找到音樂"
   },
-  "addlocalmusic":{
+  "add_music_location":{
     "message":"添加本機音樂"
   },
   "add_local_title":{
