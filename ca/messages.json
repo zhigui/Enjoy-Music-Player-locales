@@ -1,0 +1,375 @@
+{
+  "lang":{
+    "message":"CA"
+  },
+  "application_title": {
+    "message": "Enjoy Music Player"
+  },
+  "application_description": {
+    "message": "Amb Enjoy Music Player, pots reproduir música local i online fàcilment."
+  },
+  "app_cmd_prev":{
+    "message":"Cançó anterior"
+  },
+  "app_cmd_next":{
+    "message":"Cançó següent"
+  },
+  "app_cmd_playpause":{
+    "message":"Reproduir/pausar"
+  },
+  "minimize":{
+    "message":"minimitzar"
+  },
+  "maximize":{
+    "message":"maximitzar"
+  },
+  "mini_mode":{
+    "message":"Mode mini"
+  },
+  "close_app":{
+    "message":"Tancar aplicació"
+  },
+  "eq":{
+    "message":"Equalitzador"
+  },
+  "enable_eq":{
+    "message":"Activa"
+  },
+  "disable_eq":{
+    "message":"Desactiva"
+  },
+  "setting":{
+    "message":"Configuració"
+  },
+  "favorite":{
+    "message":"«M'agrada» a la cançó actual"
+  },
+  "share":{
+    "message":"Comparteix a Twitter"
+  },
+  "mode_list": {
+    "message": "Seqüència"
+  },
+  "mode_single": {
+    "message": "Repeteix"
+  },
+  "mode_random": {
+    "message": "Reproducció aleatòria"
+  },
+  "local_music": {
+    "message": "Local"
+  },
+  "online_music": {
+    "message": "Online"
+  },
+  "google_drive":{
+    "message": "Google Drive"
+  },
+  "add_track": {
+    "message": "Afegeix Música"
+  },
+  "music_list": {
+    "message": "Cançons"
+  },
+  "artist_list": {
+    "message": "Artistes"
+  },
+  "album_list": {
+    "message": "Àlbums"
+  },
+  "favorite_list": {
+    "message": "Els meus Preferits"
+  },
+  "offline_list":{
+    "message":"Música Offline"
+  },
+  "song_title": {
+    "message": "Títol"
+  },
+  "song_artist": {
+    "message": "Artista"
+  },
+  "song_album": {
+    "message": "Àlbum"
+  },
+  "song_track":{
+    "message": "Cançó"
+  },
+  "songs_empty": {
+    "message": "La llista de cançons locals està buida, feu clic a «+Afegeix Musica» per afegir caçons."
+  },
+  "playlist_empty": {
+    "message": "La llista de reproducció està buida, trieu algunes cançons de la llista."
+  },
+  "search_local":{
+    "message":"Cerca a la llista de cançons."
+  },
+  "playlist_add_selected":{
+    "message":"cançons seleccionades",
+    "description": "3 cançons seleccionades"
+  },
+  "playlist_add_to":{
+    "message":"Afegeix a",
+    "description": "Afegeix a <llista de reproducció>"
+  },
+  "add_playlist":{
+    "message": "Llista de reproducció nova",
+    "description": "crea llista de reproducció"
+  },
+  "playlist_name":{
+    "message": "Nom de la llista de reproducció"
+  },
+  "added_playlist":{
+    "message":"Llista de reproducció $NAME$ afegida",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "removed_playlist":{
+    "message":"Llista de reproducció $NAME$ eliminada",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "add_to_playlist":{
+    "message":" $NUM$ cançons afegides a $PLAYLIST$ ",
+    "description": "3 cançons afegides a <nom de la llista de reproducció>",
+    "placeholders": {
+      "num": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "remove_from_playlist":{
+    "message":" $TITLE$ eliminada de $PLAYLIST$ ",
+    "description": "<títol de la cançó> eliminada de <nom de la llista de reproducció>",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "music_trend":{
+    "message":"Música de moda"
+  },
+  "music_genres": {
+    "message": "Gèneres"
+  },
+  "music_radio": {
+    "message": "Ràdio"
+  },
+  "search_track": {
+    "message": "Cerca Música"
+  },
+  "search":{
+    "message":"Cerca"
+  },
+  "online_loading": {
+    "message": "Carregant..."
+  },
+  "search_result_empty": {
+    "message": "Ups, no he trobat res ╭(╯3╰)╮."
+  },
+  "local_adding": {
+    "message": "Inicia l'escaneig i l'anàlisi de la música local ara."
+  },
+  "revoke_auth":{
+    "message":"Revocar autenticació"
+  },
+  "refresh_list":{
+    "message":"Refresca la llista"
+  },
+  "manage_drive":{
+    "message":" Administrar documents"
+  },
+  "connect_drive":{
+    "message":"Accedeiu al vostre Google Drive"
+  },
+  "file":{
+    "message":"Fitxer"
+  },
+  "size":{
+    "message":"Mida"
+  },
+  "date":{
+    "message":"Data"
+  },
+  "nothing_found":{
+    "message":" No s'ha trobat el fitxer de música"
+  },
+  "add_music_location":{
+    "message":"Afegeix música local"
+  },
+  "add_local_title":{
+    "message":"Permet Enjoy Music Player accedir a la següent localització:"
+  },
+  "add_local_null":{
+    "message":"Cap localització disponible, feu clic al botó de baix a l'esquerra per afegir-ne."
+  },
+  "change_music_location":{
+    "message":"Afegir/Editar Localització"
+  },
+  "eq_effect":{
+    "message":"Equalitzador"
+  },
+  "cancel":{
+    "message":"Cancel·la"
+  },
+  "ok": {
+    "message": "D'acord"
+  },
+  "apply": {
+    "message": "Aplica"
+  },
+  "delete":{
+    "message":"Esborra"
+  },
+  "setting": {
+    "message": "Configuració"
+  },
+  "hotkey":{
+    "message":"Dreceres"
+  },
+  "desktop_notify": {
+    "message": "Notificacions"
+  },
+  "setting_notify": {
+    "message": "Quan el reproductor està minimitzat, mostra notificacions en canviar de cançó."
+  },
+  "setting_hotkey":{
+    "message":"Per defecte utilitzant Tecles Multimèdia (MediaNextTrack, MediaPlayPause, MediaPrevTrack). Afegeix dreceres manualment obrint l'URL:"
+  },
+  "help_improve": {
+    "message": "Privacitat"
+  },
+  "setting_analysis": {
+    "message": "Envia estadístiques d'ús anònimes per ajudar-nos a millorar la nostra aplicació!"
+  },
+  "remote_scan": {
+    "message": "Escaneja el codi QR i obre l'enllaç al navegador del mòbil ara."
+  },
+  "remote_control": {
+    "message": "Control Remot"
+  },
+  "remote_interface":{
+    "message": "Interfície"
+  },
+  "remote_port":{
+    "message": "Port"
+  },
+  "remote_enable": {
+    "message": "Activa"
+  },
+  "remote_stop": {
+    "message": "Atura"
+  },
+  "remote_success": {
+    "message": "Control remot connectat correctament."
+  },
+  "remote_failure": {
+    "message": "Error del control remot."
+  },
+  "default_tip": {
+    "message": "Gaudeix la música. Gaudeix la vida.."
+  },
+  "skip_next":{
+    "message":"Reproduir la següent"
+  },
+  "analysis_music":{
+    "message":"Analitzant música"
+  },
+  "scan_complete":{
+    "message":"Escaneig completat"
+  },
+  "media_lib_updated":{
+    "message":"Llibraria multimèdia actualitzada"
+  },
+  "load_error":{
+    "message":"Error carregant la música"
+  },
+  "file_error":{
+    "message": "No es pot reproduir $TITLE$ des de: $LOCATION$ ",
+    "description": "No es pot reproduir <títol de la cançó> des de: <localització de la cançó> ",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "location": {
+        "content":"$2"
+      }
+    }
+  },
+  "load_buffer":{
+    "message":"carregant..."
+  },
+  "load_connect":{
+    "message":"connectant..."
+  },
+  "custom":{
+    "message":"Personalitzat"
+  },
+  "suggest":{
+    "message":"Suggereix"
+  },
+  "reset":{
+    "message":"Descansa"
+  },
+  "bruce":{
+    "message":"Bruce"
+  },
+  "opera":{
+    "message":"Òpera"
+  },
+  "metal":{
+    "message":"Metal"
+  },
+  "dance":{
+    "message":"Dansa"
+  },
+  "pop":{
+    "message":"Pop"
+  },
+  "rock":{
+    "message":"Rock"
+  },
+  "voice":{
+    "message":"Vocal"
+  },
+  "country":{
+    "message":"Country"
+  },
+  "electronic":{
+    "message":"Electrònica"
+  },
+  "jazz":{
+    "message":"Jazz"
+  },
+  "classic":{
+    "message":"Clàssica"
+  },
+  "old":{
+    "message":"Vella"
+  },
+  "search_error":{
+    "message":"Error de música"
+  },
+  "mix_music":{
+    "message":"barrejant música..."
+  },
+  "mix_error":{
+    "message":"Error en barrejar la música"
+  },
+  "loadlist_error":{
+    "message":"Error en carregar la llista"
+  }
+}
