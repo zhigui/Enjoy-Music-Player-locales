@@ -1,4 +1,4 @@
-###You can localize Enjoy Music Player to any of the following locales.
+### You can localize Enjoy Music Player to any of the following locales.
 
 Locale code |       Language (region)
 ------------|---------------------------
