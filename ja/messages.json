@@ -12,7 +12,7 @@
     "message": "全曲"
   },
   "app_cmd_next": {
-    "message": "次曲"
+    "message": "次の曲"
   },
   "app_cmd_playpause": {
     "message": "再生・一時停止"
@@ -45,7 +45,7 @@
     "message": "この曲をお気に入りに追加"
   },
   "share": {
-    "message": "この曲をツイッターで共有"
+    "message": "この曲をTwitterで共有"
   },
   "mode_list": {
     "message": "リピート"
@@ -63,7 +63,7 @@
     "message": "オンライン"
   },
   "google_drive": {
-    "message": "グーグルドライブ"
+    "message": "Google Drive"
   },
   "add_track": {
     "message": "曲を追加"
@@ -113,14 +113,14 @@
     "description": "プレイリストに追加：<playlist name>"
   },
   "add_playlist": {
-    "message": "新プレイリスト",
+    "message": "新しいプレイリスト",
     "description": "プレイリストを作成"
   },
   "playlist_name": {
     "message": "プレイリスト名"
   },
   "added_playlist": {
-    "message": "$NAME$　が作成されました",
+    "message": "$NAME$ が作成されました",
     "placeholders": {
       "name": {
         "content": "$1"
@@ -181,10 +181,10 @@
     "message": "ここに表示するものはありませんよ ╭(╯3╰)╮."
   },
   "local_adding": {
-    "message": "すぐにローカル曲をスキャンする "
+    "message": "すぐにローカルの曲をスキャンする "
   },
   "revoke_auth": {
-    "message": "オースを取り消す"
+    "message": "許可を取り消す"
   },
   "refresh_list": {
     "message": "一覧を更新"
@@ -234,9 +234,6 @@
   "delete": {
     "message": "消去"
   },
-  "setting": {
-    "message": "設定"
-  },
   "hotkey": {
     "message": "ショートカット"
   },
@@ -247,13 +244,13 @@
     "message": "エミュプレが最小化されていて、曲が変わるとき通知する"
   },
   "setting_hotkey": {
-    "message": "デフォルトはメディアキー (MediaNextTrack, MediaPlayPause, MediaPrevTrack)を使っています。変えるには次のリンクに行ってください:"
+    "message": "デフォルトではメディアキー (MediaNextTrack, MediaPlayPause, MediaPrevTrack)を使っています。変えるには次のリンクに行ってください:"
   },
   "help_improve": {
     "message": "プライバシー"
   },
   "setting_analysis": {
-    "message": "アプリの改善のため無名アノニマスデータを送信する。"
+    "message": "アプリの改善のため匿名でデータを送信する。"
   },
   "remote_scan": {
     "message": "携帯でQRコードをスキャンしてください。"
@@ -274,22 +271,22 @@
     "message": "停止"
   },
   "remote_success": {
-    "message": "繋がりに成功しました"
+    "message": "接続に成功しました"
   },
   "remote_failure": {
-    "message": "繋がりにエラーが発生しました"
+    "message": "接続エラーが発生しました"
   },
   "default_tip": {
     "message": "音楽を楽もう。人生を楽しもう。"
   },
   "skip_next": {
-    "message": "次曲"
+    "message": "次の曲"
   },
   "analysis_music": {
     "message": "音楽アナライザー"
   },
   "scan_complete": {
-    "message": "スカン完了"
+    "message": "スキャン完了"
   },
   "media_lib_updated": {
     "message": "メディアライブラリーが更新されました"
@@ -313,7 +310,7 @@
     "message": "バッファ中..."
   },
   "load_connect": {
-    "message": "コネクト中..."
+    "message": "接続中..."
   },
   "custom": {
     "message": "カスタム"
@@ -367,9 +364,9 @@
     "message": "曲を混ぜあわせ中..."
   },
   "mix_error": {
-    "message": "曲を混ぜあわせながらエラーが発生しました"
+    "message": "曲を混ぜあわせる際にエラーが発生しました"
   },
   "loadlist_error": {
-    "message": "一覧をロードするのにエラーが発生しました"
+    "message": "一覧をロードする際にエラーが発生しました"
   }
 }
