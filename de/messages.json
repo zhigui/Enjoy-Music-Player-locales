@@ -283,23 +283,23 @@
     "message": "Genieße die Musik. Genieße das Leben."
   },
   "skip_next":{
-    "message":"Play Next One"
+    "message":"Nächstes wiedergeben"
   },
   "analysis_music":{
-    "message":"Analysing music"
+    "message":"Musik analysieren"
   },
   "scan_complete":{
-    "message":"Scanning complete"
+    "message":"Scan komplett"
   },
   "media_lib_updated":{
-    "message":"Media library has been updated"
+    "message":"Medienbiblithek wurde geupdatet"
   },
   "load_error":{
-    "message":"Loading music error"
+    "message":"Fehler beim Laden"
   },
   "file_error":{
-    "message": "Cant't play $TITLE$ form: $LOCATION$ ",
-    "description": "Cant't play <song title> form: <song location> ",
+    "message": "Kann $TITLE$ von $LOCATION$ nicht wiedergeben",
+    "description": "Kann <song title> von <song location> nicht wiedergeben",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -310,19 +310,19 @@
     }
   },
   "load_buffer":{
-    "message":"buffering..."
+    "message":"Zwischenspeichern..."
   },
   "load_connect":{
-    "message":"connecting..."
+    "message":"Verbinden..."
   },
   "custom":{
-    "message":"Custom"
+    "message":"Angepasst"
   },
   "suggest":{
-    "message":"Suggest"
+    "message":"Vorgeschlagen"
   },
   "reset":{
-    "message":"Rest"
+    "message":"Zurücksetzen"
   },
   "bruce":{
     "message":"Bruce"
@@ -361,15 +361,15 @@
     "message":"Old"
   },
   "search_error":{
-    "message":"Search Error"
+    "message":"Fehler bei der Suche"
   },
   "mix_music":{
-    "message":"mixing music now..."
+    "message":"Musik wird gemixt..."
   },
   "mix_error":{
-    "message":"Error occurred while mixing music"
+    "message":"Fehler beim Mixen der Musik"
   },
   "loadlist_error":{
-    "message":"Load list error"
+    "message":"Fehler beim Laden der Liste"
   }
 }
