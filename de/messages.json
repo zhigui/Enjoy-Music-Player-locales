@@ -205,82 +205,82 @@
     "message":"Datum"
   },
   "nothing_found":{
-    "message":" Music file not found"
+    "message":" Musikdatei nicht gefunden"
   },
   "add_music_location":{
-    "message":"Add Music Local"
+    "message":"Lokale Musik hinzufügen"
   },
   "add_local_title":{
-    "message":"Allow Enjoy Music Player to access following location:"
+    "message":"Erlaube Enjoy Music Player den Zugriff auf folgende Quelle:"
   },
   "add_local_null":{
-    "message":"No location available, please click button on the  bottom left corner to add."
+    "message":"Keine Quelle verfügbar, bitte klicke den Button links unten zum Hinzufügen."
   },
   "change_music_location":{
-    "message":"Add/Edit Location"
+    "message":"Quelle hinzufügen/bearbeiten"
   },
   "eq_effect":{
     "message":"Equalizer"
   },
   "cancel":{
-    "message":"Cancel"
+    "message":"Abbrechen"
   },
   "ok": {
-    "message": "Ok"
+    "message": "OK"
   },
   "apply": {
-    "message": "Apply"
+    "message": "Anwenden"
   },
   "delete":{
-    "message":"Delete"
+    "message":"Löschen"
   },
   "setting": {
-    "message": "Setting"
+    "message": "Einstellungen"
   },
   "hotkey":{
-    "message":"Shortcuts"
+    "message":"Verknüpfungen"
   },
   "desktop_notify": {
-    "message": "Notifications"
+    "message": "Benachrichtigungen"
   },
   "setting_notify": {
-    "message": "When the player is minimized, show notifications when changing to next song."
+    "message": "Wenn der Player minimiert ist, zeige eine Benachrichtigung, wenn der nächste Titel abgespielt wird."
   },
   "setting_hotkey":{
-    "message":"Default using Media Keys (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Manually add  shortcuts by open the URL:"
+    "message":"Benutze standardmäßige Mediakeys (MediaNextTrack, MediaPlayPause, MediaPrevTrack). Füge manuell Shortcuts unter folgender URL hinzu:"
   },
   "help_improve": {
     "message": "Privacy"
   },
   "setting_analysis": {
-    "message": "Send anonymous usage data to help us to improve our app!"
+    "message": "Sende anonyme Nutzungsdaten zur Verbesserung an uns!"
   },
   "remote_scan": {
-    "message": "Scan Qr code and open link on mobile browser now."
+    "message": "Scanne den QR-Code und öffne den Link im Browser."
   },
   "remote_control": {
-    "message": "Remote Control"
+    "message": "Fernbedienung"
   },
   "remote_interface":{
-    "message": "Interface"
+    "message": "Schnittstelle"
   },
   "remote_port":{
     "message": "Port"
   },
   "remote_enable": {
-    "message": "Enable"
+    "message": "Aktvieren"
   },
   "remote_stop": {
     "message": "Stop"
   },
   "remote_success": {
-    "message": "Remote control connected successfully."
+    "message": "Fernbedienung erfolgreich hinzugefügt."
   },
   "remote_failure": {
-    "message": "Remote control error."
+    "message": "Fehler bei der Verbindung."
   },
   "default_tip": {
-    "message": "Enjoy music. Enjoy life."
+    "message": "Genieße die Musik. Genieße das Leben."
   },
   "skip_next":{
     "message":"Play Next One"
