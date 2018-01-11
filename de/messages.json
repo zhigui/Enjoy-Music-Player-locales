@@ -120,7 +120,7 @@
     "message": "Wiedergabelisten-Name"
   },
   "added_playlist":{
-    "message":"Playlist $NAME$ added",
+    "message":"Wiedergabeliste $NAME$ hinzugefügt",
     "placeholders": {
       "name": {
         "content":"$1"
@@ -128,7 +128,7 @@
     }
   },
   "removed_playlist":{
-    "message":"Playlist $NAME$ removed",
+    "message":"Wiedergabeliste $NAME$ entfernt",
     "placeholders": {
       "name": {
         "content":"$1"
@@ -136,8 +136,8 @@
     }
   },
   "add_to_playlist":{
-    "message":" $NUM$ songs added to $PLAYLIST$ ",
-    "description": "3 songs added to <playlist name>",
+    "message":" $NUM$ Titel wurden zu $PLAYLIST$ hinzugefügt",
+    "description": "3 Titel wurden zu <playlist name> hinzugefügt",
     "placeholders": {
       "num": {
         "content":"$1"
@@ -148,8 +148,8 @@
     }
   },
   "remove_from_playlist":{
-    "message":" $TITLE$ removed from $PLAYLIST$ ",
-    "description": "<song title> removed from <playlist name>",
+    "message":" $TITLE$ von $PLAYLIST$ entfernt",
+    "description": "<song title> wurde von <playlist name> entfernt",
     "placeholders": {
       "title": {
         "content":"$1"
@@ -160,49 +160,49 @@
     }
   },
   "music_trend":{
-    "message":"Trending Music"
+    "message":"Beliebte Musik"
   },
   "music_genres": {
-    "message": "Genres"
+    "message": "Genre"
   },
   "music_radio": {
     "message": "Radio"
   },
   "search_track": {
-    "message": "Search Music"
+    "message": "Musik suchen"
   },
   "search":{
-    "message":"Search"
+    "message":"Suchen"
   },
   "online_loading": {
-    "message": "Loading..."
+    "message": "Lade..."
   },
   "search_result_empty": {
-    "message": "Oops, I got nothing here ╭(╯3╰)╮."
+    "message": "Uups, hier ist nichts zu finden ╭(╯3╰)╮."
   },
   "local_adding": {
-    "message": "Start scanning and analysing local music now. "
+    "message": "Das Durchsuchen und Analysieren der lokalen Quellen wurde gestartet"
   },
   "revoke_auth":{
-    "message":"Revoke auth"
+    "message":"Authentifizierung widerrufen"
   },
   "refresh_list":{
-    "message":"Refresh list"
+    "message":"Liste aktualisieren"
   },
   "manage_drive":{
-    "message":" Manage documents"
+    "message":" Drive verwalten"
   },
   "connect_drive":{
-    "message":"Access your Google Drive"
+    "message":"Verbindung zu Google Drive herstellen"
   },
   "file":{
-    "message":"File"
+    "message":"Datei"
   },
   "size":{
-    "message":"Size"
+    "message":"Größe"
   },
   "date":{
-    "message":"Date"
+    "message":"Datum"
   },
   "nothing_found":{
     "message":" Music file not found"
