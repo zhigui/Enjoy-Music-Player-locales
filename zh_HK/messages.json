@@ -1,0 +1,375 @@
+{
+  "lang":{
+    "message":"ZH_HK"
+  },
+  "application_title": {
+    "message": "享聽音樂播放器"
+  },
+  "application_description": {
+    "message": "享聽音樂播放器能讓您方便地播放本機和綫上音樂。"
+  },
+  "app_cmd_prev":{
+    "message":"上一首"
+  },
+  "app_cmd_next":{
+    "message":"下一首"
+  },
+  "app_cmd_playpause":{
+    "message":"播放/暫停"
+  },
+  "minimize":{
+    "message":"最小化"
+  },
+  "maximize":{
+    "message":"最大化"
+  },
+  "mini_mode":{
+    "message":"迷你模式"
+  },
+  "close_app":{
+    "message":"關閉"
+  },
+  "eq":{
+    "message":"等化器"
+  },
+  "enable_eq":{
+    "message":"啓用等化器"
+  },
+  "disable_eq":{
+    "message":"停用等化器"
+  },
+  "setting":{
+    "message":"設定"
+  },
+  "favorite":{
+    "message":"喜歡目前歌曲"
+  },
+  "share":{
+    "message":"分享目前歌曲"
+  },
+  "mode_list": {
+    "message": "清單播放"
+  },
+  "mode_single": {
+    "message": "單曲重複播放"
+  },
+  "mode_random": {
+    "message": "隨機播放"
+  },
+  "local_music": {
+    "message": "本機音樂"
+  },
+  "online_music": {
+    "message": "綫上音樂"
+  },
+  "google_drive":{
+    "message": "Google 雲端硬碟"
+  },
+  "add_track": {
+    "message": "新增歌曲"
+  },
+  "music_list": {
+    "message": "歌曲清單"
+  },
+  "artist_list": {
+    "message": "演出者清單"
+  },
+  "album_list": {
+    "message": "專輯清單"
+  },
+  "favorite_list": {
+    "message": "我喜愛的歌曲"
+  },
+  "offline_list":{
+    "message": "離綫歌曲清單"
+  },
+  "song_title": {
+    "message": "歌曲名稱"
+  },
+  "song_artist": {
+    "message": "演出者"
+  },
+  "song_album": {
+    "message": "專輯"
+  },
+  "song_track":{
+    "message": "音軌"
+  },
+  "songs_empty": {
+    "message": "本機音樂清單目前空白，請在左方點擊「新增歌曲」。"
+  },
+  "playlist_empty": {
+    "message": "播放清單是空白的。"
+  },
+  "search_local":{
+      "message":"搜尋音樂"
+  },
+  "playlist_add_selected":{
+    "message":"首已選擇",
+    "description": "3 songs selected"
+  },
+  "playlist_add_to":{
+    "message":"新增至",
+    "description": "Add to <playlist name>"
+  },
+  "add_playlist":{
+    "message": "建立播放清單",
+    "description": "create playlist"
+  },
+  "playlist_name":{
+    "message": "播放清單名稱"
+  },
+  "added_playlist":{
+    "message":"已新增 $NAME$ 播放清單",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "removed_playlist":{
+    "message":"已移除 $NAME$ 播放清單",
+    "placeholders": {
+      "name": {
+        "content":"$1"
+      }
+    }
+  },
+  "add_to_playlist":{
+    "message":"已新增 $NUM$ 首歌曲至 $PLAYLIST$ ",
+    "description": "3 songs added to <playlist name>",
+    "placeholders": {
+      "num": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "remove_from_playlist":{
+    "message":"歌曲 $TITLE$ 已從 $PLAYLIST$ 中移除",
+    "description": "<song title> removed from <playlist name>",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "playlist": {
+        "content":"$2"
+      }
+    }
+  },
+  "music_trend":{
+    "message":"音樂趨勢"
+  },
+  "music_genres": {
+    "message": "音樂類型"
+  },
+  "music_radio": {
+    "message": "音樂電台"
+  },
+  "search_track": {
+    "message": "搜尋音樂"
+  },
+  "search":{
+    "message":"搜尋"
+  },
+  "online_loading": {
+    "message": "載入中……"
+  },
+  "search_result_empty": {
+    "message": "沒有搜尋結果"
+  },
+  "local_adding": {
+    "message": "正在掃描本機音樂……"
+  },
+  "revoke_auth":{
+    "message":"取消授權"
+  },
+  "refresh_list":{
+    "message":"更新清單"
+  },
+  "manage_drive":{
+    "message":"管理檔案"
+  },
+  "connect_drive":{
+    "message":"連結您的 Google 雲端硬碟"
+  },
+  "file":{
+    "message":"檔案"
+  },
+  "size":{
+    "message":"大小"
+  },
+  "date":{
+    "message":"日期"
+  },
+  "nothing_found":{
+    "message":"沒有找到音樂"
+  },
+  "add_music_location":{
+    "message":"新增本機音樂位置"
+  },
+  "add_local_title":{
+    "message":"將會掃描以下位置的音樂："
+  },
+  "add_local_null":{
+    "message":"享聽無法存取您的本機檔案。請點擊左下角的按鈕來新增檔案位置。"
+  },
+  "change_music_location":{
+    "message":"新增/修改掃描位置"
+  },
+  "eq_effect":{
+    "message":"等化器"
+  },
+  "cancel":{
+    "message":"取消"
+  },
+  "ok": {
+    "message": "確定"
+  },
+  "apply": {
+    "message": "套用"
+  },
+  "delete":{
+    "message":"刪除"
+  },
+  "setting": {
+    "message": "設定"
+  },
+  "hotkey":{
+    "message":"快捷鍵"
+  },
+  "desktop_notify": {
+    "message": "桌面通知"
+  },
+  "setting_notify": {
+    "message": "最小化後，切換歌曲時將會顯示通知。"
+  },
+  "setting_hotkey":{
+    "message":"預設快捷鍵為媒體鍵（上一首、播放、暫停及下一首），您亦可手動開啓 Chrome 擴充功能頁面更改，位址："
+  },
+  "help_improve": {
+    "message": "參與改進"
+  },
+  "setting_analysis": {
+    "message": "向我們傳送匿名的使用量資料，以便幫助我們改進此應用程式。"
+  },
+  "remote_scan": {
+    "message": "請用手機掃描二維碼，然後在手機瀏覽器中開啓二維碼中的連結。"
+  },
+  "remote_control": {
+    "message": "遠端控制"
+  },
+  "remote_interface":{
+    "message": "介面卡"
+  },
+  "remote_port":{
+    "message": "埠號"
+  },
+  "remote_enable": {
+    "message": "開啓"
+  },
+  "remote_stop": {
+    "message": "停止"
+  },
+  "remote_success": {
+    "message": "遠端控制配對成功。"
+  },
+  "remote_failure": {
+    "message": "遠端控制配對失敗。"
+  },
+  "default_tip": {
+    "message": "享受音樂，享受生活！"
+  },
+  "skip_next":{
+    "message":"播放下一首"
+  },
+  "analysis_music":{
+    "message":"正在分析音樂……"
+  },
+  "scan_complete":{
+    "message":"檔案掃描完成。"
+  },
+  "media_lib_updated":{
+    "message":"已更新媒體庫。"
+  },
+  "load_error":{
+    "message":"載入歌曲時發生錯誤。"
+  },
+  "file_error":{
+    "message": "無法播放位於 $LOCATION% 的 $TITLE$",
+    "description": "Cant't play <song title> form: <song location> ",
+    "placeholders": {
+      "title": {
+        "content":"$1"
+      },
+      "location": {
+        "content":"$2"
+      }
+    }
+  },
+  "load_buffer":{
+    "message":"正在緩衝……"
+  },
+  "load_connect":{
+    "message":"正在連綫……"
+  },
+  "custom":{
+    "message":"自訂"
+  },
+  "suggest":{
+    "message":"智能配對"
+  },
+  "reset":{
+    "message":"重置"
+  },
+  "bruce":{
+    "message":"布魯斯"
+  },
+  "opera":{
+    "message":"歌劇"
+  },
+  "metal":{
+    "message":"重金屬"
+  },
+  "dance":{
+    "message":"跳舞曲"
+  },
+  "pop":{
+    "message":"流行曲"
+  },
+  "rock":{
+    "message":"搖滾"
+  },
+  "voice":{
+    "message":"人聲"
+  },
+  "country":{
+    "message":"鄉村"
+  },
+  "electronic":{
+    "message":"電子樂"
+  },
+  "jazz":{
+    "message":"爵士樂"
+  },
+  "classic":{
+    "message":"古典樂"
+  },
+  "old":{
+    "message":"懷舊"
+  },
+  "search_error":{
+    "message":"搜尋時發生錯誤。"
+  },
+  "mix_music":{
+    "message":"正在為您混合音樂，請稍候……"
+  },
+  "mix_error":{
+    "message":"混合歌曲過程中發生錯誤。"
+  },
+  "loadlist_error":{
+    "message":"載入列清單失敗，請稍後再試。"
+  }
+}
